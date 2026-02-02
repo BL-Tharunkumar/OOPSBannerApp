@@ -1,2 +1,2 @@
 # OOPSBannerApp
-OOPS Banner App - Object-Oriented Programming Learning Project
+Prints “OOPS” simply, then as a *-based banner, progressively refactored using functions, a class for patterns, and a map for clean, modular design.
